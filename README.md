@@ -1,42 +1,4 @@
 
-> Please check branches for Latest **Frontend, Backend & Rest Api** Code.
-# Full Stack Multimart e-Commerce
-This is my full stack e-Commerce website created using React (Frontend), Laravel (Dashboard) , Resetapi (API) ,Dtabash (my SQL) etc.
-
-
-## Frontend
-I created Full Stack Multimart e-Commerce frontend using React, Reactstrap, Bootstrap etc.
-
-[Live Preview](https://demo.reinforcelabhosting.com/) &nbsp; &nbsp; [Code Link](https://github.com/mahadi-opu/Full-Stack-Multimart-Ecommerce/tree/main/Front%20End)
-
-![Home](https://github.com/mahadi-opu/Full-Stack-Multimart-Ecommerce/assets/76869065/ce509c69-1d9f-418f-96ad-9a63474760ea)
-
-
-## Backend
-I customized a Laravel admin dashboard called minimal and integrate backend functionaliy & rest api.
-
-[Live Preview](#) &nbsp; &nbsp; [Code Link](https://github.com/mahadi-opu/Full-Stack-Multimart-Ecommerce/tree/main/Back%20End)
-
-![admin](https://github.com/mahadi-opu/Full-Stack-Multimart-Ecommerce/assets/76869065/d017ff84-1ce8-4e50-b946-d360dc6b2d0a)
-
-## Restapi
-
-I created Multimart e-Commerce rest api using Node, Express, Mongo Db.
-
-[Live Preview](#) &nbsp; &nbsp; [Code Link](#)
-
-<img src="https://user-images.githubusercontent.com/71124853/187373613-4e093a1b-4a3f-412e-a411-f6044b42cd02.png">
-
-
-## TODO
-- [x] Create Multimart e-Commerce Frontend Using **Using React Js**
-- [x] Create Multimart e-Commerce Backend **Using Laravel Php**
-- [x] Create Multimart e-Commerce Api using **Using Rest API**
-
-- [ ] Create Multimart e-Commerce Frontend **Using NEXT JS**
-
-React Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
 
 
 ## Full Stack Multimart Ecommerce Key Features:
